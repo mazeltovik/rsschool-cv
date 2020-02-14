@@ -4,5 +4,5 @@
 * I haven`t any skills, but I hope get some practice in your school. 
 * I haven`t any code examples, because i`m "new man in a town".
 * Coding tests, projects from courses, conversation with people, which working in industry a long time. 
-* I was finishing Belarusian State Technological University in 2017 on faculty of Chemical Technology and Technics and getting specialiti: engeenier-chemical-technologyst.
-* In university i was finishing Assistant translator course, than i was finishing cousre of english language in Poliglot school.
+* I was finishing Belarusian State Technological University in 2017 on faculty of Chemical Technology and Technics and getting specialiti: engeenier-chemical-technologyst
+* In university i was finishing Assistant translator course, than i was finishing cousre of english language in Poliglot school
