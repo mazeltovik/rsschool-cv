@@ -1,0 +1,23 @@
+#wrapper{
+	margin:230px 200px 230px 200px;
+	background-color: grey;
+	max-width:1000px;
+	min-width:650px;
+	max-hight:1000px;
+}
+#image{
+	float:right;
+	
+}
+ul li{
+	color:black;
+	font:400 16px Verdana;
+	text-align: left;
+}
+
+
+a{
+	color:black;
+}
+
+
