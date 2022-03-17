@@ -84,5 +84,97 @@ body{
 
 
 .rightSide{
-    background-color: grey;
+    padding: 3rem;
 }
+
+.main_about{
+    width:50%;
+    color:#5ba7d1;
+    font-size: 2rem;
+    border-bottom: 2px solid #444440;
+}
+
+.text_about{
+    padding-top: 1.5rem;
+    font-size:1.2rem;
+    line-height: 1.5rem;
+    word-spacing: 0.1rem;
+}
+
+.main_education{
+    padding-top: 5rem;
+    width:50%;
+    color:#5ba7d1;
+    font-size: 2rem;
+    border-bottom: 2px solid #444440;
+}
+
+.text_education{
+    padding-top: 1.5rem;
+    font-size:1.2rem;
+    line-height: 1.5rem;
+    word-spacing: 0.1rem;
+}
+
+.text_education ul{
+    padding-left: 2rem;
+}
+
+.main_exp{
+    padding-top: 5rem;
+}
+
+.p_exp{
+    width:50%;
+    color:#5ba7d1;
+    font-size: 2rem;
+    border-bottom: 2px solid #444440;
+}
+
+.portfolio_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-items: center;
+    padding-top: 1.5rem;
+    gap:1rem;
+}
+
+.site_container{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.site_p{
+    font-weight: 600;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.site_tech{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    letter-spacing: 0.2rem;
+    color: #5ba7d1;
+    text-transform: uppercase;
+}
+
+.site_link{
+    border: 1px solid grey;
+    cursor: pointer;
+    padding: 0.5rem;
+    margin-right: auto;
+    margin-bottom: 1rem;
+}
+
+.site_link a{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    text-decoration: none;
+    color: black;
+}
+
